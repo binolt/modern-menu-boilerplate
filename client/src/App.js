@@ -4,7 +4,9 @@ const App = () => {
   return ( 
     <div className="app">
       <div className="app-body">
-        <h1>Modern Menu Tutorial</h1>
+        <p style={{textShadow: "0px 3px 3px rgba(0,0,0,0.3)"}}>
+        "[ (づ｡◕‿‿◕｡)づ*:･ﾟ✧ insert <strong style={{color: "turquoise", textDecoration: "underline"}}>epic</strong> code here ✧*:･ ]"
+        </p>
       </div>
     </div>
    );
